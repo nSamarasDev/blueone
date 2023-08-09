@@ -1,0 +1,11 @@
+{
+  "name": "blueone",
+  "version": "1.0.0",
+  "description": "blueone is a new project for a new idea. that is all. 👻 ##n.samaras4@outlook.com",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicholas Samaras",
+  "license": "MIT"
+}
